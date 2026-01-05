@@ -35,6 +35,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] CI configured for tests, lint, and security scanning
+- [ ] Regular demos scheduled (include UX Designer and Technical Writer)
+- [ ] Risk register reviewed and updated weekly
+- [ ] Communication plan reviewed and stakeholder updates sent weekly
+- [ ] Cross-role handoffs clearly documented (e.g., Dev → UX for review, Dev → Tech Writer for docs)
+- [ ] Security reviews scheduled at appropriate milestones
+- [ ] Documentation updates tracked alongside feature work
+- [ ] Clear ownership established for each work item and dependency

@@ -31,7 +31,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Stakeholder mapping completed: identify all key stakeholders, their roles, and communication needs
+- [ ] Communication plan artifact created (frequency, channels, and owners for stakeholder updates)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Initial risk assessment documented
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
